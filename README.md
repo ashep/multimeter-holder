@@ -1,7 +1,7 @@
 # Multimeter Holder
 
 
-![Power supply example](img/01.png)
+![3D Model](img/01.png)
 
 
 ## Description  
@@ -12,7 +12,7 @@ some cases it's very important to have more clear space on your table. Here is w
 this multimeter holder you can easily hang your tool on on a shelf or another part of your working environment. 
 
 
-## Built samples
+## Built Samples
 
 ![Build sample 1](img/03.jpg)
 
@@ -28,7 +28,7 @@ this multimeter holder you can easily hang your tool on on a shelf or another pa
 - Slice and print.
 
 
-## How To Get Custom Sized Case
+## How To Customize Model
 
 - Open [source 3D model](src/MultimeterHolder.f3d) in [Autodesk Fusion 360].
 - Open "Parameters" dialog and set variables in "User Parameters" for your needs.
@@ -67,6 +67,13 @@ I use [SemVer](http://semver.org/) for versioning. For the versions available, s
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
 
+
+## Changelog
+
+
+### 2019-10-31
+
+Initial release.
 
 
 [Autodesk Fusion 360]: https://www.autodesk.com/products/fusion-360/overview
