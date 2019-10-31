@@ -55,7 +55,7 @@ I use [SemVer](http://semver.org/) for versioning. For the versions available, s
 ## See also
 
 - [Project on Thingiverse](https://www.thingiverse.com/thing:3948771).
-- [Project on Hackster](https://www.hackster.io/ashep/multimeter-holder-5e9318).
+- [Project on Hackster](https://www.hackster.io/ashep/multimeter-holder-f07ec9).
  
 
 ## Authors
