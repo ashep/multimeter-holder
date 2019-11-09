@@ -12,13 +12,19 @@ some cases it's very important to have more clear space on your table. Here is w
 this multimeter holder you can easily hang your tool on on a shelf or another part of your working environment. 
 
 
-## Built Samples
+## Built Sample
 
 ![Build sample 1](img/03.jpg)
 
 ![Build sample 2](img/04.jpg)
 
 ![Build sample 3](img/05.jpg)
+
+![Build sample 4](img/06.jpg)
+
+![Build sample 5](img/07.jpg)
+
+![Build sample 6](img/08.jpg)
 
 
 ## How To Use
@@ -71,7 +77,12 @@ This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md)
 ## Changelog
 
 
-### 2019-10-31
+### 0.2 (2019-11-10)
+
+Second joint added.
+
+
+### 0.1 (2019-10-31)
 
 Initial release.
 
